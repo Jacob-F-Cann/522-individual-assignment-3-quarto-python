@@ -1,5 +1,5 @@
 ## DSCI 522 individual assignment on Quarto reproducible reports using Python
-------------------
+----------------------
 This is a template repository 
 for the individual assignment on Quarto reproducible reports using Python
 from the DSCI 522 (Workflows for data science) course.
